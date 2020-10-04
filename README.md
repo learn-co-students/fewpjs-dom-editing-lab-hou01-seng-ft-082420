@@ -83,7 +83,6 @@ bar to view `index.html`.
 
 Just to speed things up a bit, paste the following code into `index.html`:
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,7 +95,7 @@ Just to speed things up a bit, paste the following code into `index.html`:
   <!--All our work for this lesson will go here-->
 </body>
 </html>
-```
+
 
 Refresh the page to see the changes.
 
